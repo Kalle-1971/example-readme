@@ -51,6 +51,7 @@ Java -jar Lavalink.jar / java -jar Lavalink.jar
 
 > !!! Don't forget to run **java -jar Lavalink.jar** before everytime you start the Bot
 
+> !!! To change Player Options look in [application.yml](/config/application.yml)
 ## Made With
 
 * Python: 3.8.5
